@@ -1,6 +1,6 @@
 # Computer-vision
 
-Este modelo sequencial toma imagenes de insectos y recocnoce avispas, abejas y otros insectos. 
+Este modelo sequencial toma imagenes de un dataset y recocnoce avispas, abejas y otros insectos. 
 
 Levanta con credenciales de Kaggle generadas en un json de la API
 
@@ -9,4 +9,6 @@ To use the Kaggle API, sign up for a Kaggle account at https://www.kaggle.com. T
 Subir el archivo de json a Google Colab y correr.
 
 Dataset: https://www.kaggle.com/jerzydziewierz/bee-vs-wasp
+
+También se puede usar ResNet para aumentar el accuracy pero este es un ejemplo de un modelo hecho de cero
 
