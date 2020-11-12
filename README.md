@@ -1,6 +1,6 @@
 # Computer-vision
 
-Este modelo sequencial toma imagenes de un dataset y recocnoce avispas, abejas y otros insectos. 
+Este modelo sequencial toma imágenes de un dataset y recocnoce avispas, abejas y otros insectos. 
 
 Levanta con credenciales de Kaggle generadas en un json de la API
 
