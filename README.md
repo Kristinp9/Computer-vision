@@ -2,8 +2,8 @@
 
 Tres modelos: 
 1) Secuencial con capas convolucionales para reconocer imágenes de insectos
-2) VGG19
-3) ResNet50
+2) VGG19 con imagenet
+3) ResNet50 con imagenet
 
 Levanta con credenciales de Kaggle generadas en un json de la API
 
