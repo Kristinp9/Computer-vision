@@ -1,4 +1,4 @@
-# Computer-vision
+# Computer vision
 
 Tres modelos: 
 1) Secuencial con capas convolucionales para reconocer imágenes de insectos
